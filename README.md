@@ -25,7 +25,7 @@ Este projeto tem como propósito a resolução de exercícios da plataforma Leet
 
 ![732. My Calendar III DIFÍCIL](src/732.png)
 
-#### [Link do Código](leetcode/732.My-Calendar-III.png.py)
+#### [Link do Código](leetcode/732.py)
 
 ## [124. Binary Tree Maximum Path Sum DIFÍCIL](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
 
